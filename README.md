@@ -1,16 +1,21 @@
-## Hi there 👋
+# Shahan | Professional overthinker, but with data
+#  "I don’t cook, I just clean 🧹(data)"
+Data Analyst | SQL • Python • Snowflake • Databricks • Tableau • Power BI • Excel  
 
-<!--
-**shahan-analytics/shahan-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+Data analyst with a strong foundation in SQL, data analysis, and business intelligence. Experienced in working with structured datasets, performing exploratory data analysis, and building dashboards to support data-driven decision making.
 
-Here are some ideas to get you started:
+Skilled in translating data into actionable insights, with a focus on customer analytics, financial data analysis, and performance optimisation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Competencies
+- Data Analysis and Exploratory Data Analysis (EDA)  
+- SQL Querying and Data Manipulation  
+- Data Visualisation and Dashboard Development  
+- Business Analytics and Insight Generation  
+- Data Cleaning and Transformation  
+
+## Tools & Technologies
+SQL • Python • Snowflake • Databricks • Tableau • Power BI • Excel 
+
+## Current Focus
+Advancing skills in data analytics, improving query performance, and building scalable data workflows.
