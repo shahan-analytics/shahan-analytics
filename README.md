@@ -1,5 +1,5 @@
 # Shahan | Professional overthinker, but with data
-#  "I don’t cook, I just clean 🧹(data)"
+## I don’t cook, I just clean 🧹(data)
 Data Analyst | SQL • Python • Snowflake • Databricks • Tableau • Power BI • Excel  
 
 ## Profile
